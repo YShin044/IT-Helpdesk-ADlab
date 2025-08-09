@@ -1,0 +1,4 @@
+UserName,FirstName,LastName,Password,Department,OUPath
+nhanvien.sales01,An,Nguyen,P@sswordSales1,Sales,"OU=Sales,OU=Users,OU=Company,DC=minhtam,DC=server"
+nhanvien.sales02,Binh,Le,P@sswordSales2,Sales,"OU=Sales,OU=Users,OU=Company,DC=minhtam,DC=server"
+nhanvien.hr01,Chi,Tran,P@sswordHR1,HR,"OU=HR,OU=Users,OU=Company,DC=minhtam,DC=server"
